@@ -29,7 +29,7 @@ WHATSAPP_TOKEN = "B9onMvcpADMhWgHXxjq9"
 WHATSAPP_TARGET = "628981659030"
 
 # Monitoring Configuration
-ENDPOINT_URL = "http://103.186.0.180/AutoDeploy_Notes/"
+ENDPOINT_URL = "https://myjenkinsnotes.duckdns.org/AutoDeploy_Notes/index.php"
 LOG_FILES = {
     "ssh": "/var/log/auth.log",
     "apache": "/var/log/apache2/error.log",
